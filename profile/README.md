@@ -9,7 +9,7 @@ which promotes co-operation in the areas of innovation, climate change and susta
 It is part-funded by the 2014-2020 European Regional Development Fund,
 through the Welsh Government.
 
-These repositories contain the code released as part of the ECHOES project.
+The code in these repositories was developed for the ECHOES project.
  
 The ECHOES web application was developed to visualize the results of analysis
 (such as predicted probability maps of the birds) and bird tracking data.
