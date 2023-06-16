@@ -9,17 +9,21 @@ which promotes co-operation in the areas of innovation, climate change and susta
 It is part-funded by the 2014-2020 European Regional Development Fund,
 through the Welsh Government.
 
-The code in these repositories was developed for the ECHOES project.
+The code in these repositories was developed for the ECHOES project. There are two components: the *Web Platform* and the *EO Service*.
 
-The ECHOES web application was developed to visualize the results of analysis
+## Web Platform
+
+[Compass Informatics](https://compass.ie) developed the ECHOES Web Platform to visualize the results of analysis
 (such as predicted probability maps of the birds) and bird tracking data.
 It also provides Earth Observation (EO) data, habitat maps and other data,
 which can be used to gain a holistic understanding of the birds and their habitats.
 It also enables to land mangers to understand how their land is changing over time.
 
-There are two components: the *EO Service* and the *web component*.
-The EO Service code has been released here,
-and the web-component code will follow at a later date.
+The Web Platform comprises the following repositories:
+
+* [platform](https://github.com/ECHOESProj/platform)
+* [climate-projections](https://github.com/ECHOESProj/climate-projections)
+* [eorunner](https://github.com/ECHOESProj/eorunner)
 
 ## The EO Service
 
