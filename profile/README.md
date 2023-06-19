@@ -49,4 +49,17 @@ The EO Service comprises the following repositories:
 
 ## User Documentation
 
+Below you will find a list of key areas of the [ECHOES platform](https://echoes-platform.eu/) with links to their user documentation. Each link will download the corresponding word documentation to your device. 
+
+* [Logging into ECHOES with Credentials](https://github.com/ECHOESProj/User-Documentation/blob/main/User%20Documentation/Logging%20into%20ECHOES%20with%20Credentials.docx?raw=true)
+* [Logging into ECHOES as a Guest](https://github.com/ECHOESProj/User-Documentation/blob/main/User%20Documentation/Logging%20into%20ECHOES%20as%20a%20Guest.docx?raw=true)
+* [Creating & Searching for Sites](https://github.com/ECHOESProj/User-Documentation/blob/main/User%20Documentation/Creating%20%26%20Searching%20for%20Sites%20.docx?raw=true)
+* [View & Edit Sites Details](https://github.com/ECHOESProj/User-Documentation/blob/main/User%20Documentation/View%20%26%20Edit%20Sites%20Details.docx?raw=true)
+* [How to Upload an Attachment](https://github.com/ECHOESProj/User-Documentation/blob/main/User%20Documentation/How%20to%20Upload%20an%20Attachment%20.docx?raw=true)
+* [Creating & Viewing Sub Sites](https://github.com/ECHOESProj/User-Documentation/blob/main/User%20Documentation/Creating%20%26%20Viewing%20Sub%20Sites.docx?raw=true)
+* [Creating New Workflows + Creating & Using Template Workflows](https://github.com/ECHOESProj/User-Documentation/blob/main/User%20Documentation/Creating%20New%20Workflows%20%2B%20Creating%20%26%20Using%20Template%20Workflows%20.docx?raw=true)
+* [Viewing Workflows & Creating Steps](https://github.com/ECHOESProj/User-Documentation/blob/main/User%20Documentation/Viewing%20Workflows%20%26%20Creating%20Steps.docx?raw=true)
 * [Creating & Editing Alerts](https://github.com/ECHOESProj/User-Documentation/blob/main/User%20Documentation/Creating%20%26%20Editing%20Alerts%20.docx?raw=true)
+* [Map View, Layer list & Right-Nav](https://github.com/ECHOESProj/User-Documentation/blob/main/User%20Documentation/Map%20View%2C%20Layer%20list%20%26%20Right-Nav.docx?raw=true)
+* [Earth Observation Layers](https://github.com/ECHOESProj/User-Documentation/blob/main/User%20Documentation/Earth%20Observation%20Layers.docx?raw=true)
+* [Roles and Users Sections](https://github.com/ECHOESProj/User-Documentation/blob/main/User%20Documentation/Roles%20and%20Users%20Sections.docx?raw=true)
