@@ -46,3 +46,7 @@ The EO Service comprises the following repositories:
 * [eo-stack](https://github.com/ECHOESProj/eo-stack)
 * [websockets-server](https://github.com/ECHOESProj/websockets-server)
 * [eo-notebooks](https://github.com/ECHOESProj/eo-notebooks)
+
+## User Documentation
+
+* [Creating & Editing Alerts](https://github.com/ECHOESProj/User-Documentation/blob/main/User%20Documentation/Creating%20%26%20Editing%20Alerts%20.docx?raw=true)
