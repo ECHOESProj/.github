@@ -25,6 +25,8 @@ The Web Platform comprises the following repositories:
 * [climate-projections](https://github.com/ECHOESProj/climate-projections)
 * [eorunner](https://github.com/ECHOESProj/eorunner)
 
+All code developed under the ECHOES project is open source and available for reuse.  There will be some costs in installing depending on chosen architecture e.g. CREODIAS Sentinel Hub.  Additionally, the platform is built using ASPNet Zero, so there are some licensing restrictions regarding distribution and use.  The code can be shared and is freely available, but access needs to be explicitly granted.  To gain access to the core repo https://github.com/ECHOESProj/platform please contact info@compass.ie 
+
 ## The EO Service
 
 [Compass Informatics](https://compass.ie) developed the ECHOES EO Processing Service,
