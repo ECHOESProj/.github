@@ -65,4 +65,3 @@ Below you will find a list of key areas of the [ECHOES platform](https://echoes-
 * [Map View, Layer list & Right-Nav](https://github.com/ECHOESProj/User-Documentation/blob/main/User%20Documentation/Map%20View%2C%20Layer%20list%20%26%20Right-Nav.docx?raw=true)
 * [Earth Observation Layers](https://github.com/ECHOESProj/User-Documentation/blob/main/User%20Documentation/Earth%20Observation%20Layers.docx?raw=true)
 * [Roles and Users Sections](https://github.com/ECHOESProj/User-Documentation/blob/main/User%20Documentation/Roles%20and%20Users%20Sections.docx?raw=true)
-* [How To Create & Embed StoryMap](https://github.com/ECHOESProj/User-Documentation/blob/main/User%20Documentation/How%20To%20Create%20%26%20Embed%20StoryMap.docx?raw=true)
